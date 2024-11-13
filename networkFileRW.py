@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 #networkFileRW.py
 #Pamela Brauda
-#Thursday, March 3, 2022
+#Wednesday Nov. 13, 2024
+#Edited for Github Lab
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 
